@@ -1,0 +1,192 @@
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\Demo3.dll.config
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\Demo3.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\Demo3.pdb
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\csc.exe
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\csc.exe.config
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\csc.rsp
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\csi.exe
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\csi.exe.config
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\csi.rsp
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.AppContext.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.Collections.Immutable.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.Console.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.IO.Compression.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.IO.FileSystem.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.IO.Pipes.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.Reflection.Metadata.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.Security.AccessControl.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.Security.Claims.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.ValueTuple.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.Xml.XPath.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\vbc.exe
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\vbc.exe.config
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\vbc.rsp
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\VBCSCompiler.exe
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\roslyn\VBCSCompiler.exe.config
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\Newtonsoft.Json.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\System.Net.Http.Formatting.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\System.Web.Http.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\System.Web.Http.WebHost.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\Newtonsoft.Json.xml
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\System.Net.Http.Formatting.xml
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\System.Web.Http.xml
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\System.Web.Http.WebHost.xml
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\obj\Debug\Demo3.csprojAssemblyReference.cache
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\obj\Debug\Demo3.csproj.CoreCompileInputs.cache
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\obj\Debug\Demo3.csproj.CopyComplete
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\obj\Debug\Demo3.dll
+E:\Manager_CNTT\Lập trình web\Project\Demo3\Demo3\obj\Debug\Demo3.pdb
+F:\Demo3\Demo3\bin\Demo3.dll.config
+F:\Demo3\Demo3\bin\Demo3.dll
+F:\Demo3\Demo3\bin\Demo3.pdb
+F:\Demo3\Demo3\bin\roslyn\csc.exe
+F:\Demo3\Demo3\bin\roslyn\csc.exe.config
+F:\Demo3\Demo3\bin\roslyn\csc.rsp
+F:\Demo3\Demo3\bin\roslyn\csi.exe
+F:\Demo3\Demo3\bin\roslyn\csi.exe.config
+F:\Demo3\Demo3\bin\roslyn\csi.rsp
+F:\Demo3\Demo3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Demo3\Demo3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Demo3\Demo3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Demo3\Demo3\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Demo3\Demo3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Demo3\Demo3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Demo3\Demo3\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Demo3\Demo3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Demo3\Demo3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Demo3\Demo3\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Demo3\Demo3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Demo3\Demo3\bin\roslyn\System.AppContext.dll
+F:\Demo3\Demo3\bin\roslyn\System.Collections.Immutable.dll
+F:\Demo3\Demo3\bin\roslyn\System.Console.dll
+F:\Demo3\Demo3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Demo3\Demo3\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Demo3\Demo3\bin\roslyn\System.IO.Compression.dll
+F:\Demo3\Demo3\bin\roslyn\System.IO.FileSystem.dll
+F:\Demo3\Demo3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Demo3\Demo3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Demo3\Demo3\bin\roslyn\System.IO.Pipes.dll
+F:\Demo3\Demo3\bin\roslyn\System.Reflection.Metadata.dll
+F:\Demo3\Demo3\bin\roslyn\System.Security.AccessControl.dll
+F:\Demo3\Demo3\bin\roslyn\System.Security.Claims.dll
+F:\Demo3\Demo3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Demo3\Demo3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Demo3\Demo3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Demo3\Demo3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Demo3\Demo3\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Demo3\Demo3\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Demo3\Demo3\bin\roslyn\System.ValueTuple.dll
+F:\Demo3\Demo3\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Demo3\Demo3\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Demo3\Demo3\bin\roslyn\System.Xml.XPath.dll
+F:\Demo3\Demo3\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Demo3\Demo3\bin\roslyn\vbc.exe
+F:\Demo3\Demo3\bin\roslyn\vbc.exe.config
+F:\Demo3\Demo3\bin\roslyn\vbc.rsp
+F:\Demo3\Demo3\bin\roslyn\VBCSCompiler.exe
+F:\Demo3\Demo3\bin\roslyn\VBCSCompiler.exe.config
+F:\Demo3\Demo3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Demo3\Demo3\bin\Newtonsoft.Json.dll
+F:\Demo3\Demo3\bin\System.Net.Http.Formatting.dll
+F:\Demo3\Demo3\bin\System.Web.Http.dll
+F:\Demo3\Demo3\bin\System.Web.Http.WebHost.dll
+F:\Demo3\Demo3\bin\Newtonsoft.Json.xml
+F:\Demo3\Demo3\bin\System.Net.Http.Formatting.xml
+F:\Demo3\Demo3\bin\System.Web.Http.xml
+F:\Demo3\Demo3\bin\System.Web.Http.WebHost.xml
+F:\Demo3\Demo3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Demo3\Demo3\obj\Debug\Demo3.csprojAssemblyReference.cache
+F:\Demo3\Demo3\obj\Debug\Demo3.csproj.CoreCompileInputs.cache
+F:\Demo3\Demo3\obj\Debug\Demo3.csproj.CopyComplete
+F:\Demo3\Demo3\obj\Debug\Demo3.dll
+F:\Demo3\Demo3\obj\Debug\Demo3.pdb
+D:\New folder\Demo3\Demo3\bin\Demo3.dll.config
+D:\New folder\Demo3\Demo3\bin\Demo3.dll
+D:\New folder\Demo3\Demo3\bin\Demo3.pdb
+D:\New folder\Demo3\Demo3\bin\roslyn\csc.exe
+D:\New folder\Demo3\Demo3\bin\roslyn\csc.exe.config
+D:\New folder\Demo3\Demo3\bin\roslyn\csc.rsp
+D:\New folder\Demo3\Demo3\bin\roslyn\csi.exe
+D:\New folder\Demo3\Demo3\bin\roslyn\csi.exe.config
+D:\New folder\Demo3\Demo3\bin\roslyn\csi.rsp
+D:\New folder\Demo3\Demo3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder\Demo3\Demo3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\New folder\Demo3\Demo3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder\Demo3\Demo3\bin\roslyn\System.AppContext.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.Console.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.IO.Compression.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.IO.FileSystem.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.IO.Pipes.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.Security.AccessControl.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.Security.Claims.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.ValueTuple.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.Xml.XPath.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\New folder\Demo3\Demo3\bin\roslyn\vbc.exe
+D:\New folder\Demo3\Demo3\bin\roslyn\vbc.exe.config
+D:\New folder\Demo3\Demo3\bin\roslyn\vbc.rsp
+D:\New folder\Demo3\Demo3\bin\roslyn\VBCSCompiler.exe
+D:\New folder\Demo3\Demo3\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder\Demo3\Demo3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder\Demo3\Demo3\bin\Newtonsoft.Json.dll
+D:\New folder\Demo3\Demo3\bin\System.Net.Http.Formatting.dll
+D:\New folder\Demo3\Demo3\bin\System.Web.Http.dll
+D:\New folder\Demo3\Demo3\bin\System.Web.Http.WebHost.dll
+D:\New folder\Demo3\Demo3\bin\Newtonsoft.Json.xml
+D:\New folder\Demo3\Demo3\bin\System.Net.Http.Formatting.xml
+D:\New folder\Demo3\Demo3\bin\System.Web.Http.xml
+D:\New folder\Demo3\Demo3\bin\System.Web.Http.WebHost.xml
+D:\New folder\Demo3\Demo3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder\Demo3\Demo3\obj\Debug\Demo3.csprojAssemblyReference.cache
+D:\New folder\Demo3\Demo3\obj\Debug\Demo3.csproj.CoreCompileInputs.cache
+D:\New folder\Demo3\Demo3\obj\Debug\Demo3.csproj.CopyComplete
+D:\New folder\Demo3\Demo3\obj\Debug\Demo3.dll
+D:\New folder\Demo3\Demo3\obj\Debug\Demo3.pdb
